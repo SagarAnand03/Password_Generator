@@ -20,7 +20,24 @@ The goal of this project is to create a random password Generate by using **djan
 
 * SQLite by default if no env variable is set
 
-Install project dependencies:(ignore if you have following dependencies in you computer)
+# Software & Package used version while createing Project's:
+
+Python:
+     
+     Python 3.9.9
+     
+     
+PIP :
+   
+     pip 21.2.4
+     
+     
+Django:
+     
+     Django 4.0.1
+
+
+Install project dependencies:(**Ignore if you have following dependencies in you computer**)
 
 Python:
      
