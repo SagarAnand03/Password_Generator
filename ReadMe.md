@@ -21,6 +21,7 @@ The goal of this project is to create a random password Generate by using **djan
 * SQLite by default if no env variable is set
 
 Install project dependencies:(ignore if you have following dependencies in you computer)
+
 Python:
      
      https://www.python.org/
