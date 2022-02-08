@@ -70,8 +70,8 @@ After that just install the local dependencies, run migrations, and start the se
 
 First clone the repository from Github and switch to the new directory:
 
-    $ git clone git@github.com/USERNAME/{{ project_name }}.git
-    $ cd {{ project_name }}
+    $ git clone git@github.com/sa24449/Online_Password_Generator-Django.git
+    $ cd {{ Password Generator By using Django }}
     
 Activate the virtualenv for your project.
     
