@@ -6,48 +6,77 @@ The goal of this project is to create a random password Generate by using **djan
 
 ### Main features
 
-* Separated dev and production settings
+* creates random or customized passwords for users. It helps users create stronger passwords that provide greater security for a given type of access.
 
-* Example app with custom user model
+* user can select length of password between  6-14
 
-* Bootstrap static files included
+* User can select uppercase , Number , Special Character by enable check Box  according to need
 
-* User registration and logging in as demo
+* Where result will appear after triggering the Generate Password Button in following format:
 
-* Procfile for easy deployments
+![Default Home view](Readme_files/output_page.png)
 
-* Separated requirements files
+* User can also access information by triggering About Button
 
-* SQLite by default if no env variable is set
+![Default Home view](Readme_files/about.png)
 
-## Password Generator -Django
+## Version(**Used while making project**) 
 
-# Getting Started
+Python:
+     
+     Python 3.9.9
+     
+     
+PIP :
+   
+     pip 21.2.4
+     
+     
+Django:
+     
+     Django 4.0.1
+
+
+## Install project dependencies:(**Ignore if you have following dependencies in you computer**)
+
+Python:
+     
+     https://www.python.org/
+     
+     
+PIP :
+   
+     python get-pip.py
+     
+     
+Django:
+     
+     python -m pip install Django
+
+# Password Generator -Django
+
+## Getting Started
 
 First clone the repository from Github and switch to the new directory:
 
-    $ git clone git@github.com:sa24449/Online_Password_Generator-Django.git
+     git clone https://github.com/sa24449/Online_Password_Generator-Django.git
+     
 
 Move to Project directory:
 
-    $ cd Online_Password_Generator-Django
-    
-Activate the virtualenv for your project.
-    
-Install project dependencies:
-
-    $ python manage.py make migrations
-    
+     cd Online_Password_Generator-Django
+     
     
 Then simply apply the migrations:
 
-    $ python manage.py migrate
+     python manage.py migrate
     
 
 You can now run the development server:
 
-    $ python manage.py runserver
+     python manage.py runserver
+     
 
-In Terminal you can find project is running on your local host on successful run 
+In Terminal you can find project is running on your local host on successful run  
    
-    $ http://127.0.0.1:8000/
+     http://127.0.0.1:8000/
