@@ -26,7 +26,7 @@ The goal of this project is to create a random password Generate by using **djan
 
 First clone the repository from Github and switch to the new directory:
 
-    $ git clone git@github.com:sa24449/Online_Password_Generator-Django.git
+    $ git clone https://github.com/sa24449/Online_Password_Generator-Django.git
 
 Move to Project directory:
 
