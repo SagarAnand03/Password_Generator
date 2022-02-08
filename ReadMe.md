@@ -37,6 +37,7 @@ Django:
      Django 4.0.1
 
 
+
 ## Install project dependencies:(**Ignore if you have following dependencies in you computer**)
 
 Python:
