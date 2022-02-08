@@ -1,10 +1,6 @@
-
-
 # Introduction
 
-The goal of this project is to create a random password Generate by using *django*  
-
-
+The goal of this project is to create a random password Generate by using **django**
 
 ![Default Home view](Readme_files/Home_page.png)
 
@@ -30,54 +26,57 @@ To use this template to start your own project:
 
 ### Existing virtualenv
 
-If your project is already in an existing python3 virtualenv first install django by running
+If your project is already in an existing python virtualenv first install django by running
 
     $ pip install django
     
 And then run the `django-admin.py` command to start the new project:
 
     $ django-admin.py startproject \
-      --template=https://github.com/nikola-k/django-template/zipball/master \
+      --template=https://github.com/sa24449/Online_Password_Generator-Django.git \
       --extension=py,md \
-      <project_name>
+      <Password_generator>
       
 ### No virtualenv
 
-This assumes that `python3` is linked to valid installation of python 3 and that `pip` is installed and `pip3`is valid
-for installing python 3 packages.
+This assumes that `python` is linked to valid installation of python 3 and that `pip` is installed is valid
+for installing python  packages.
 
 Installing inside virtualenv is recommended, however you can start your project without virtualenv too.
 
 If you don't have django installed for python 3 then run:
 
-    $ pip3 install django
+    $ pip install django
     
 And then:
 
-    $ python3 -m django startproject \
-      --template=https://github.com/nikola-k/django-template/zipball/master \
+    $ python -m django startproject \
+      --template=https://github.com/sa24449/Online_Password_Generator-Django.git \
       --extension=py,md \
-      <project_name>
+      <Password_generator>
       
       
 After that just install the local dependencies, run migrations, and start the server.
 
-{% endif %}
 
-# {{ project_name|title }}
+
+## Password Generator -Django
 
 # Getting Started
 
 First clone the repository from Github and switch to the new directory:
 
-    $ git clone git@github.com/sa24449/Online_Password_Generator-Django.git
-    $ cd {{ Password Generator By using Django }}
+    $ git clone git@github.com:sa24449/Online_Password_Generator-Django.git
+
+Move to Project directory:
+
+    $ cd Online_Password_Generator-Django
     
 Activate the virtualenv for your project.
     
 Install project dependencies:
 
-    $ pip install -r requirements/local.txt
+    $ python manage.py make migrations
     
     
 Then simply apply the migrations:
@@ -88,3 +87,7 @@ Then simply apply the migrations:
 You can now run the development server:
 
     $ python manage.py runserver
+
+In Terminal you can find project is running on your local host on successful run 
+   
+    $ http://127.0.0.1:8000/
