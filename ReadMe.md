@@ -6,7 +6,7 @@ The goal of this project is to create a random password Generate by using *djang
 
 
 
-![Default Home View](__Readme_files/Home_page.png?raw=true "Title")
+![Default Home view](Readme_files/Home_page.png)
 
 ### Main features
 
