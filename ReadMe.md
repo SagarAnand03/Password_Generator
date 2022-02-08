@@ -6,7 +6,6 @@ The goal of this project is to create a random password Generate by using **djan
 
 ### Main features
 
-<<<<<<< HEAD
 * creates random or customized passwords for users. It helps users create stronger passwords that provide greater security for a given type of access.
 
 * user can select length of password between  6-14
@@ -56,44 +55,6 @@ Django:
 
 # Password Generator -Django
 
-=======
-
-Version(while making project) 
-
-Python:
-     
-     Python 3.9.9
-     
-     
-PIP :
-   
-     pip 21.2.4
-     
-     
-Django:
-     
-     Django 4.0.1
-
-
-Install project dependencies:(**Ignore if you have following dependencies in you computer**)
-
-Python:
-     
-     https://www.python.org/
-     
-     
-PIP :
-   
-     python get-pip.py
-     
-     
-Django:
-     
-     python -m pip install Django
-
-# Password Generator -Django
-
->>>>>>> 179d3fe12989ccc902860905d134b6f95bb43b6b
 ## Getting Started
 
 First clone the repository from Github and switch to the new directory:
