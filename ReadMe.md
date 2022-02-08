@@ -20,46 +20,6 @@ The goal of this project is to create a random password Generate by using **djan
 
 * SQLite by default if no env variable is set
 
-# Usage
-
-To use this template to start your own project:
-
-### Existing virtualenv
-
-If your project is already in an existing python virtualenv first install django by running
-
-    $ pip install django
-    
-And then run the `django-admin.py` command to start the new project:
-
-    $ django-admin.py startproject \
-      --template=https://github.com/sa24449/Online_Password_Generator-Django.git \
-      --extension=py,md \
-      <Password_generator>
-      
-### No virtualenv
-
-This assumes that `python` is linked to valid installation of python 3 and that `pip` is installed is valid
-for installing python  packages.
-
-Installing inside virtualenv is recommended, however you can start your project without virtualenv too.
-
-If you don't have django installed for python 3 then run:
-
-    $ pip install django
-    
-And then:
-
-    $ python -m django startproject \
-      --template=https://github.com/sa24449/Online_Password_Generator-Django.git \
-      --extension=py,md \
-      <Password_generator>
-      
-      
-After that just install the local dependencies, run migrations, and start the server.
-
-
-
 ## Password Generator -Django
 
 # Getting Started
