@@ -6,19 +6,6 @@ The goal of this project is to create a random password Generate by using **djan
 
 ### Main features
 
-* Separated dev and production settings
-
-* Example app with custom user model
-
-* Bootstrap static files included
-
-* User registration and logging in as demo
-
-* Procfile for easy deployments
-
-* Separated requirements files
-
-* SQLite by default if no env variable is set
 
 Version(while making project) 
 
