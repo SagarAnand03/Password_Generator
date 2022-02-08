@@ -20,7 +20,7 @@ The goal of this project is to create a random password Generate by using **djan
 
 * SQLite by default if no env variable is set
 
-# Software & Package used version while createing Project's:
+Version(while making project) 
 
 Python:
      
@@ -53,9 +53,9 @@ Django:
      
      python -m pip install Django
 
-## Password Generator -Django
+# Password Generator -Django
 
-# Getting Started
+## Getting Started
 
 First clone the repository from Github and switch to the new directory:
 
