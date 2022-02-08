@@ -20,6 +20,21 @@ The goal of this project is to create a random password Generate by using **djan
 
 * SQLite by default if no env variable is set
 
+Install project dependencies:(ignore if you have following dependencies in you computer)
+Python:
+     
+     https://www.python.org/
+     
+     
+PIP :
+   
+     python get-pip.py
+     
+     
+Django:
+     
+     python -m pip install Django
+
 ## Password Generator -Django
 
 # Getting Started
@@ -27,17 +42,12 @@ The goal of this project is to create a random password Generate by using **djan
 First clone the repository from Github and switch to the new directory:
 
      git clone https://github.com/sa24449/Online_Password_Generator-Django.git
+     
 
 Move to Project directory:
 
      cd Online_Password_Generator-Django
-    
-Activate the virtualenv for your project.
-    
-Install project dependencies:
-
-     python manage.py make migrations
-    
+     
     
 Then simply apply the migrations:
 
@@ -47,6 +57,7 @@ Then simply apply the migrations:
 You can now run the development server:
 
      python manage.py runserver
+     
 
 In Terminal you can find project is running on your local host on successful run 
    
