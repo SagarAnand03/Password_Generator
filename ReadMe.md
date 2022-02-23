@@ -21,15 +21,15 @@ The goal of this project is to create a random password Generate by using **djan
 ![Default Home view](Readme_files/about.png)
 
 ## folder directory
-              
-|   .gitignore
-|   db.sqlite3
-|   LICENSE
-|   manage.py
-|   output.doc
-|   ReadMe.md
-|   
-+---generator
+'''              
+  |   .gitignore
+  |   db.sqlite3
+  |   LICENSE
+  |   manage.py
+  |   output.doc
+  |   ReadMe.md
+  |   
+  +---generator
   |   |   admin.py
   |   |   apps.py
   |   |   models.py
@@ -68,6 +68,7 @@ The goal of this project is to create a random password Generate by using **djan
   |           urls.cpython-39.pyc
   |           wsgi.cpython-39.pyc
   |           __init__.cpython-39.pyc
+'''
            
 
 
