@@ -22,14 +22,14 @@ The goal of this project is to create a random password Generate by using **djan
 
 ## folder directory
               
-  |   .gitignore
-  |   db.sqlite3
-  |   LICENSE
-  |   manage.py
-  |   output.doc
-  |   ReadMe.md
-  |   
-  +---generator
+|   .gitignore
+|   db.sqlite3
+|   LICENSE
+|   manage.py
+|   output.doc
+|   ReadMe.md
+|   
++---generator
   |   |   admin.py
   |   |   apps.py
   |   |   models.py
