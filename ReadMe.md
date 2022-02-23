@@ -66,6 +66,8 @@ The goal of this project is to create a random password Generate by using **djan
  ┣ 📜manage.py
  ┗ 📜ReadMe.md
 ```
+           
+
 
 ## Version(**Used while making project**) 
 
