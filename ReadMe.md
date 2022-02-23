@@ -20,6 +20,57 @@ The goal of this project is to create a random password Generate by using **djan
 
 ![Default Home view](Readme_files/about.png)
 
+## folder directory
+              
+  |   .gitignore
+  |   db.sqlite3
+  |   LICENSE
+  |   manage.py
+  |   output.doc
+  |   ReadMe.md
+  |   
+  +---generator
+  |   |   admin.py
+  |   |   apps.py
+  |   |   models.py
+  |   |   tests.py
+  |   |   views.py
+  |   |   __init__.py
+  |   |   
+  |   +---migrations
+  |   |   |   __init__.py
+  |   |   |   
+  |   |   \---__pycache__
+  |   |           __init__.cpython-39.pyc
+  |   |           
+  |   +---templates
+  |   |   \---generator
+  |   |           about.html
+  |   |           home.html
+  |   |           password.html
+  |   |           
+  |   \---__pycache__
+  |           admin.cpython-39.pyc
+  |           apps.cpython-39.pyc
+  |           models.cpython-39.pyc
+  |           views.cpython-39.pyc
+  |           __init__.cpython-39.pyc
+  |           
+  +---password_generator
+  |   |   asgi.py
+  |   |   settings.py
+  |   |   urls.py
+  |   |   wsgi.py
+  |   |   __init__.py
+  |   |   
+  |   \---__pycache__
+  |           settings.cpython-39.pyc
+  |           urls.cpython-39.pyc
+  |           wsgi.cpython-39.pyc
+  |           __init__.cpython-39.pyc
+           
+
+
 ## Version(**Used while making project**) 
 
 Python:
