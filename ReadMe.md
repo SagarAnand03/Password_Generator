@@ -20,7 +20,7 @@ The goal of this project is to create a random password Generate by using **djan
 
 ![Default Home view](Readme_files/about.png)
 
-## folder directory
+## Folder directory of the Project
 ```              
 📦password_generator-Project
  ┣ 📂generator
@@ -66,6 +66,7 @@ The goal of this project is to create a random password Generate by using **djan
  ┣ 📜manage.py
  ┗ 📜ReadMe.md
 ```
+Note:- Some of  file are only visible after  apply the migrations
            
 
 
