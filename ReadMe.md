@@ -20,9 +20,9 @@ The goal of this project is to create a random password Generate by using **djan
 
 ![Default Home view](Readme_files/about.png)
 
-## folder directory
+## Folder directory of the Project
 ```              
-📦password_generator-Project
+📦password_generator
  ┣ 📂generator
  ┃ ┣ 📂migrations
  ┃ ┃ ┣ 📂__pycache__
@@ -66,6 +66,7 @@ The goal of this project is to create a random password Generate by using **djan
  ┣ 📜manage.py
  ┗ 📜ReadMe.md
 ```
+Note:- Some of  file are only visible after  applying the migrations
            
 
 
@@ -109,12 +110,12 @@ Django:
 
 First clone the repository from Github and switch to the new directory:
 
-     git clone https://github.com/sa24449/Online_Password_Generator-Django.git
+     git clone https://github.com/sa24449/Password_Generator.git
      
 
 Move to Project directory:
 
-     cd Online_Password_Generator-Django
+     cd Password_Generator
      
     
 Then simply apply the migrations:
