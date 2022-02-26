@@ -1,4 +1,4 @@
-# Introduction
+# Password Generator - Django
 
 The goal of this project is to create a random password Generate by using **django**
 
